@@ -118,4 +118,4 @@ export PS1="\u\[\e[34m\]\h\[\e[m\]\[\e[36;47m\]\H\[\e[m\]\[\e[41m\]\s\[\e[m\]\v\
 
 # Craig Peterson tested and approved this custom bashrc on March 7, 2017 at 1:12pm. Well done, Addissu!
 
-# Melat Beyene, tested and worked cool colors
+# Melat Beyene, tested and worked 
