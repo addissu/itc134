@@ -1,2 +1,3 @@
 "this is a new line readme.me"
 new file about new github cloning and created a new branch and pushing back up
+just added more to get ready for my final in itc134
